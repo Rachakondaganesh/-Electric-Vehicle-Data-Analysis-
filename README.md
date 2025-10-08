@@ -111,9 +111,9 @@ electric_vehicle_analysis/
 ## 👤 Author
 
 **Rachakonda Ganesh**
-📧 [[rachakondaganesh60@gmail.com](mailto:rachakondaganesh60@gmail.com)]
-🔗 [[https://github.com/Rachakondaganesh\](https://github.com/Rachakondaganesh\)]
-🔗 [[https://www.linkedin.com/in/rachakonda-ganesh-2782452a8\](https://www.linkedin.com/in/rachakonda-ganesh-2782452a8\)]
+📧 [rachakondaganesh60@gmail.com]
+🔗 [https://github.com/Rachakondaganesh\]
+🔗 [https://www.linkedin.com/in/rachakonda-ganesh-2782452a8\]
 
 ---
 
